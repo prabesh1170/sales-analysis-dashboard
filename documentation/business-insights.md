@@ -1,5 +1,5 @@
 
-## 1. Regional Performance
+## Regional Performance
 **Observation:** The West region generates the highest revenue ($483,569), while the South generates the lowest ($424,295).
 **Possible reason:** 
 **Recommendation:** Investigate what's driving West's stronger performance (e.g., check average order value by region, not just total) before assuming South needs "fixing" — the low performer isn't automatically a problem; it might just have fewer customers.

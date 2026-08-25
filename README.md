@@ -5,11 +5,11 @@ A complete Excel-based sales analysis project, covering data cleaning, transform
 and dashboard design using Power Query, PivotTables, and PivotCharts.
 
 ## Business Problem
-[1-2 sentences — e.g., "This project analyzes regional and category-level sales
-performance to identify top/bottom performers and support data-driven decisions."]
+[ This project analyses regional and category-level sales
+performance to identify top/bottom performers and support data-driven decisions.]
 
 ## Dataset
-- Source: [where the file came from / how it was learned-with]
+- Source: Kaggle.com
 - 5,000 orders originally, filtered to 1,826 orders (2022–2026 scope)
 - 17 columns including region, product category, revenue, discount, payment method
 
@@ -19,7 +19,7 @@ performance to identify top/bottom performers and support data-driven decisions.
 - GitHub (version control, documentation)
 
 ## Data Preparation
-[Summarize: raw vs. working file separation, duplicate sheet issue found/removed, etc.
+[ raw vs. working file separation, duplicate sheet issue found/removed,
 Link to: power-query/documentation.md]
 
 ## Power Query Transformations
@@ -36,3 +36,19 @@ Link to: power-query/documentation.md]
 [Summarize your top 2-3 insights briefly — link to documentation/business-insights.md for full detail]
 
 ## Project Structure
+
+sales-analysis-dashboard/
+├── data/raw/ → original untouched dataset
+├── excel/ → working Excel file with Tables, Power Query, Pivots, Dashboard
+├── power-query/ → Power Query transformation documentation
+├── screenshots/ → dashboard screenshot
+└── documentation/ → data dictionary, analysis notes, business insights
+
+## Skills Demonstrated
+- Excel Tables & structured references
+- Power Query: cleaning, filtering, merging queries
+- PivotTables & PivotCharts
+- KPI calculation
+- Dashboard design
+- Business insight writing
+- Git & GitHub version contro

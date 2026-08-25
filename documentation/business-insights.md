@@ -18,5 +18,5 @@
 
 **Possible reason:** This is a fairly significant average discount — worth knowing whether it's a deliberate promotional strategy or discounts are being applied inconsistently/too generously by staff or automated rules.
 
-**Recommendation: ** Compare average discount against Revenue_Band or region — are high-revenue orders getting less discount (healthy) or more discount (concerning, since it eats into profit)?
+**Recommendation:** Compare average discount against Revenue_Band or region — are high-revenue orders getting less discount (healthy) or more discount (concerning, since it eats into profit)?
 

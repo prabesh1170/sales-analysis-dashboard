@@ -1,12 +1,15 @@
 
 ## Regional Performance
 **Observation:** The West region generates the highest revenue ($483,569), while the South generates the lowest ($424,295).
+
 **Recommendation:** Investigate what's driving West's stronger performance (e.g., check average order value by region, not just total) before assuming South needs "fixing" — the low performer isn't automatically a problem; it might just have fewer customers.
 
 ## Product Category Performance
 
 **Observation:** Electronics is the top-performing category by revenue; Beauty is the lowest.
+
 **Possible reason:** Electronics items are typically higher-priced per unit than Beauty products, so even similar order counts could produce very different revenue totals — this might be a price effect, not necessarily a demand effect.
+
 **Recommendation:** Check average unit price and quantity sold per category separately — if Beauty actually sells a lot of units but at low prices, that's a different story than if Beauty is simply unpopular.
 
 ## Revenue Trend Over Time

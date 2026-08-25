@@ -38,10 +38,15 @@ Link to: power-query/documentation.md]
 ## Project Structure
 
 sales-analysis-dashboard/
+
 ├── data/raw/ → original untouched dataset
+
 ├── excel/ → working Excel file with Tables, Power Query, Pivots, Dashboard
+
 ├── power-query/ → Power Query transformation documentation
+
 ├── screenshots/ → dashboard screenshot
+
 └── documentation/ → data dictionary, analysis notes, business insights
 
 ## Skills Demonstrated
